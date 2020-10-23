@@ -1,9 +1,9 @@
 # Front-End Library
 
-## Source
+### Sources
 
-### Typography
+##### Typography
 `hover/links/circle-link` - https://codepen.io/aaroniker/pen/VwjexVy
 
-### Forms
+##### Forms
 `submit-animation` - https://codepen.io/aaroniker/full/NWrbeyp
